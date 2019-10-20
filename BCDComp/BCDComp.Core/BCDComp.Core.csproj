@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\BCDComp_\BCDLib\BCDLib.csproj" />
+    <ProjectReference Include="..\BCDLib\BCDLib.csproj" />
   </ItemGroup>
 
 </Project>
